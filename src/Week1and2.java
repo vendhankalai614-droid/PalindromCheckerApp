@@ -1,5 +1,5 @@
 import java.util.*;
-#question 1
+#problem 1
 public class UsernameChecker {
 
     private HashMap<String, Integer> users = new HashMap<>();
